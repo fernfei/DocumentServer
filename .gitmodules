@@ -9,13 +9,13 @@
 	url = https://github.com/ONLYOFFICE/dictionaries.git
 [submodule "sdkjs"]
 	path = sdkjs
-	url = https://github.com/ONLYOFFICE/sdkjs.git
+	url = https://github.com/fernfei/sdkjs.git
 [submodule "server"]
 	path = server
-	url = https://github.com/ONLYOFFICE/server.git
+	url = https://github.com/fernfei/server.git
 [submodule "web-apps"]
 	path = web-apps
-	url = https://github.com/ONLYOFFICE/web-apps.git
+	url = https://github.com/fernfei/web-apps.git
 [submodule "sdkjs-plugins/plugin-highlightcode"]
 	path = sdkjs-plugins/plugin-highlightcode
 	url = https://github.com/ONLYOFFICE/plugin-highlightcode
